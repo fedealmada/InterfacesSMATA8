@@ -1,0 +1,43 @@
+header{
+    width: 950px;
+    background-color: rgb(56, 56, 56);
+    height: 150px;
+}
+
+nav{
+    width: 950px;
+    background-color: rgb(255, 20, 71);
+    height: 30px;
+} 
+
+
+main{
+    width: 950px;
+    height: 350px;
+}
+
+#seccion1{
+    width: 300px;
+    background-color:rgb(255, 187, 246);
+    text-align: center;
+    color: white;
+    float: left;
+    height: 350px;
+    line-height: 55vh;
+}
+
+#seccion2{
+    width: 650px;
+    background-color:rgb(186, 186, 186);
+    text-align: center;
+    color: white;
+    float: left;
+    height: 350px;
+    line-height: 55vh;
+}
+
+footer{
+    width: 950px;
+    background-color: rgb(85, 85, 85);
+    height: 25px;
+}

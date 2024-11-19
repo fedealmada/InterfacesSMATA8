@@ -1,0 +1,23 @@
+header{
+    width: 950px;
+    background-color: rgb(56, 56, 56);
+    height: 150px;
+}
+
+nav{
+    width: 950px;
+    background-color: rgb(255, 20, 71);
+    height: 30px;
+} 
+
+#seccion{
+    width: 950px;
+    background-color: rgb(202, 202, 202);
+    height: 350px;
+} 
+
+footer{
+    width: 950px;
+    background-color: rgb(85, 85, 85);
+    height: 25px;
+}
